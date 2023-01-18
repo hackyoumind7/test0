@@ -1,0 +1,38 @@
+.wallet-btn {
+	position: relative;
+	display: flex;
+	justify-content: center !important;
+	align-items: center;
+	background: linear-gradient(rgb(159 121 38) 1%, rgb(255 210 111) 100%) !important;
+	border-radius: 10px;
+	font-weight: 500;
+	font-style: inherit;
+	font-size: 20px;
+	line-height: 32px;
+	color: #fff;
+	padding: 25px 125px;
+	height: 60px;
+	cursor: pointer;
+	transition-duration: .3s;
+	letter-spacing: .5px;
+    margin-top: 15px;
+}
+.btn-primary {
+	position: relative;
+	display: flex;
+	justify-content: center !important;
+	align-items: center;
+	background: linear-gradient(rgb(159 121 38) 1%, rgb(255 210 111) 100%) !important;
+	border-radius: 10px;
+	font-weight: 500;
+	font-style: inherit;
+	font-size: 20px;
+	line-height: 32px;
+	color: #fff;
+	padding: 25px 125px;
+	height: 60px;
+	cursor: pointer;
+	transition-duration: .3s;
+	letter-spacing: .5px;
+    margin-top: 15px;
+}
